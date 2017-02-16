@@ -128,7 +128,7 @@ At a minimum, an app has a splash screen and a home page that defines the user i
 
 When deciding on the right UI elements for your app, you might also consider the devices and the screen sizes your app will run on.
 
-## Tailoring your app for specific devices and screen sizes.
+## Tailoring your app for specific devices and screen sizes
 
 
 UWP apps use effective pixels to guarantee that your design elements will be legible and usable on all Windows-powered devices. So, why would you ever want to customize your app's UI for a specific device family?
